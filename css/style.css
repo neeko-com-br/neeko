@@ -14,7 +14,7 @@ Global Typography
 h1, h2, h3, h4, h5, h6 {
     margin      : 0 0 15px;
     color       : #303841;
-    
+
     }
 
 h1 {
@@ -584,7 +584,7 @@ Shortcode Content
 }
 
 .header-top .social-icon li a:hover{
-    opacity: .5; 
+    opacity: .5;
 }
 
 /* Phone, Emial, Get a Quote */
@@ -631,13 +631,13 @@ Shortcode Content
     }
 
     .header-top .top-contact li.get-a-quote a{
-        padding: 8px 15px; 
+        padding: 8px 15px;
     }
 
     .top-contact.pull-right{
         float: none !important;
     }
-    
+
 }
 
 
@@ -847,7 +847,7 @@ Shortcode Content
     border: 1px solid #f9f9f9;
     border-radius: 0;
 }
-@media (max-width : 767px) { 
+@media (max-width : 767px) {
     .team-member .thumbnail {
         margin-bottom: 30px;
     }
@@ -994,7 +994,7 @@ Shortcode Content
 
 
 /* --------------------------
- * Client Logo 
+ * Client Logo
  *---------------------------*/
 .client-logo {
     padding: 40px 0;
@@ -1618,3 +1618,7 @@ icon-style
     text-align: center;
     top: 65%;
     }
+
+.navbar-brand img {
+  height: 50px;
+}
